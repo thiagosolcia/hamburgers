@@ -1,3 +1,5 @@
+@use 'sass:math';
+
 @if index($hamburger-types, slider) {
   /*
    * Slider
